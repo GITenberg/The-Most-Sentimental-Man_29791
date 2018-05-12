@@ -1,0 +1,30 @@
+_repo: The-Most-Sentimental-Man_29791
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Smith, Evelyn E.
+    birthdate: 1922
+    deathdate: 2000
+    gutenberg_agent_id: '25680'
+    url: http://www.gutenberg.org/2009/agents/25680
+description: ''
+gutenberg_bookshelf:
+- Science Fiction
+- Science Fiction by Women
+gutenberg_issued: '2009-08-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29791'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: The Most Sentimental Man
+url: http://www.gutenberg.org/ebooks/29791
